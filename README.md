@@ -60,10 +60,13 @@ print(insertion_sort(list_of_nums))
 ```
 
 ## Output:
+
 i) #Selection Sort
+
 ![image](https://github.com/santhanalakshmi04/Sorting-Algorithm/assets/119475762/866c7b35-1f32-4a95-a214-7af902259693)
 
 ii)#Insertion Sort
+
 ![image](https://github.com/santhanalakshmi04/Sorting-Algorithm/assets/119475762/cdfc141a-1482-4e17-b615-cd0b7254e5a2)
 
 ## Result:
